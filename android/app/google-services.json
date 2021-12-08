@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839431834817",
+    "project_id": "flash-chat-9d1eb",
+    "storage_bucket": "flash-chat-9d1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839431834817:android:2d03dddb5ae253450c5840",
+        "android_client_info": {
+          "package_name": "com.example.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839431834817-4t1e6ovuptelvufrmm0lpufj3ogf5u3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rT-3RIGsy0uJU63BxwuehKRSp6-Rw5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839431834817-4t1e6ovuptelvufrmm0lpufj3ogf5u3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
